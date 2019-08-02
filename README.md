@@ -16,9 +16,9 @@
 <summary>Ch 02. C언어의 기본 구조</summary>
 <div markdown="1">
 
-- [ ] 1. 윈도우 기반의 통합 개발 환경 Microsoft Visual Studio .NET
-- [ ] 2. 내 생애 최초 C언어로 Hello World 출력하기
-- [ ] 3. Hello World 소스코드 분석하기
+- [x] 1. 윈도우 기반의 통합 개발 환경 Microsoft Visual Studio .NET
+- [x] 2. 내 생애 최초 C언어로 Hello World 출력하기
+- [x] 3. Hello World 소스코드 분석하기
 
 </div>
 </details>
